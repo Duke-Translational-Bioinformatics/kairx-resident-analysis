@@ -5,6 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+*.DS_Store
+data/
+.ipynb_checkpoints/
+.ipython/
+.local/
+.config/
+.cache/
 
 # Distribution / packaging
 .Python
